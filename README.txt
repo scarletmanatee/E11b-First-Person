@@ -1,0 +1,1 @@
+This is a tutorial for godot I did for making a first person character.
